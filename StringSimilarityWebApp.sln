@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringSimilarityWebApp", "StringSimilarityWebApp.csproj", "{1658B7B6-FE6A-4831-87BF-1EFBCAE77569}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1658B7B6-FE6A-4831-87BF-1EFBCAE77569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1658B7B6-FE6A-4831-87BF-1EFBCAE77569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1658B7B6-FE6A-4831-87BF-1EFBCAE77569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1658B7B6-FE6A-4831-87BF-1EFBCAE77569}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F1835A6-6EBD-4D5F-AB5F-125A6590FBD6}
+	EndGlobalSection
+EndGlobal
